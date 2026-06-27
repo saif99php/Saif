@@ -71,7 +71,7 @@ http://172.16.172.115:3255/CartoonNetwork/index.m3u8
 http://172.16.172.115:3255/Star-Movies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8VpXj0X/CHANNEL-I-HD.png" group-title="Top Picks",Channel I
 http://172.16.172.115:3255/chnnel-i/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260109235038_images_2.png" group-title="Top Picks",TAPMAD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJx1567C/tapmad.png" group-title="Top Picks",TAPMAD
 http://172.16.172.115:3255/tapmad_combo/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/livetv-it-default.jpg" group-title="Top Picks",indiatoday
 http://172.16.172.115:3255/indiatoday/index.m3u8
