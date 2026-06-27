@@ -207,7 +207,7 @@ http://172.16.172.115:3255/ENTER10-BANGLA/index.m3u8
 http://172.16.172.115:3255/COLORS-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312171902_zee-cafe.jpg" group-title="Ent",ZEE-CAFE-HD
 http://172.16.172.115:3255/ZEE-CAFE-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmHbRM14/SUN-BANGLA.png" group-title="Ent",SUN-BANGLA-HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5Zx5rSS/SUN-BANGLA.png" group-title="Ent",SUN-BANGLA-HD
 http://172.16.172.115:3255/SUN-BANGLA-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxQmnmW/B4u-music.png" group-title="Music",B4U Music
 http://172.16.172.115:3255/B4UMusic/index.m3u8
