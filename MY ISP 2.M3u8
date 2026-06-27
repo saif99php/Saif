@@ -145,7 +145,7 @@ http://172.16.172.115:3255/AND-FLIX-HD/index.m3u8
 http://172.16.172.115:3255/ROMEDY-NOW/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312172229_mnx-letter-logo-design-inspiration-for-a-unique-identity-modern-elegance-and-creative-design-watermark-your-success-with-the-striking-this-logo-vector.jpg" group-title="Movie",MNX-HD
 http://172.16.172.115:3255/MNX-HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312172315_star-movies-select-hd.png.png" group-title="Movie",STAR-MOVIES-SEL-HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ2ZCkcV/Star-Movies-Select-Hd.png.png" group-title="Movie",STAR-MOVIES-SEL-HD
 http://172.16.172.115:3255/STAR-MOVIES-SEL-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkYzmYPd/Jalsha-movies-hd.png" group-title="Movie",JALSHA-MOVIES-HD
 http://172.16.172.115:3255/JALSHA-MOVIES-HD/index.m3u8
