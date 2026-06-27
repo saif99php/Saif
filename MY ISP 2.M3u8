@@ -67,7 +67,7 @@ http://172.16.172.115:3255/STAR-GOLD-SEL-HD/index.m3u8
 http://172.16.172.115:3255/StarSports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQB6CPgh/CN.png" group-title="Top Picks",CartoonNetwork
 http://172.16.172.115:3255/CartoonNetwork/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/startmovies.png" group-title="Top Picks",STARMovies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSQTKNWR/Star-Movies.png" group-title="Top Picks",STARMovies
 http://172.16.172.115:3255/Star-Movies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8VpXj0X/CHANNEL-I-HD.png" group-title="Top Picks",Channel I
 http://172.16.172.115:3255/chnnel-i/index.m3u8
