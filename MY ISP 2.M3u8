@@ -179,7 +179,7 @@ http://172.16.172.115:3255/SonyEntertainmentTelevisionHD/index.m3u8
 http://172.16.172.115:3255/SonyAath/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSQZvW1P/star-plus-hd.png" group-title="Entertainment",STAR-BHARAT-HD
 http://172.16.172.115:3255/STAR-BHARAT-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMNJ02zf/b4u-movies.png" group-title="Entertainment",AXN-HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGXRrh5y/AXN.png" group-title="Entertainment",AXN-HD
 http://172.16.172.115:3255/AXN-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5hn7CkV/SUN-BANGLA.png" group-title="Entertainment",SUN-BANGLA-HD
 http://172.16.172.115:3255/SUN-BANGLA-HD/index.m3u8
