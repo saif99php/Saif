@@ -99,9 +99,9 @@ http://172.16.172.115:3255/StarSportss2/index.m3u8
 http://172.16.172.115:3255/nagorik_r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhwfDCbB/willow.png" group-title="Sports",willow 1
 http://172.16.172.115:3255/willow1/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110000600_images_4.png" group-title="Sports",Gtv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85bbCzmz/GAZI-TV-HD.png" group-title="Sports",GAZI-TV-HD
 http://172.16.172.115:3255/gtv/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp" group-title="Sports",EurosportHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Rnx6Bwx/EUROSPORT-HD.png" group-title="Sports",EurosportHD
 http://172.16.172.115:3255/EurosportHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCyZH10w/SPORTS.png" group-title="Sports",SPORTS
 http://172.16.172.115:3255/sportzfy1/index.m3u8
@@ -143,7 +143,7 @@ http://172.16.172.115:3255/MNX-HD/index.m3u8
 http://172.16.172.115:3255/STAR-MOVIES-SEL-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yPXfqd9/JALSA-MOVIES.png" group-title="Movie",JALSHA-MOVIES-HD
 http://172.16.172.115:3255/JALSHA-MOVIES-HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312172746_Colors_Cineplex_Black.png" group-title="Movie",COLORS-CINEPLEX-HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ9j2N0j/olors-cineplex-copy.png" group-title="Movie",COLORS-CINEPLEX-HD
 http://172.16.172.115:3255/COLORS-CINEPLEX-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvBmZK1f/amp-pictures-HD.png" group-title="Movie",PicturesHD
 http://172.16.172.115:3255/PicturesHD/index.m3u8
