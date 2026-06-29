@@ -129,7 +129,7 @@ http://172.16.172.115:3255/&PicturesHD/index.m3u8
 http://172.16.172.115:3255/ZEE-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PkCLxb1/amp-Prive-HD.png" group-title="Movie",AND-PRIVE-HD
 http://172.16.172.115:3255/AND-PRIVE-HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312171745_2012-04-MOVIES-NOW.jpg" group-title="Movie",MOVIES-NOW-HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb1XcH4f/Movies-Now.png" group-title="Movie",MOVIES-NOW-HD
 http://172.16.172.115:3255/MOVIES-NOW-HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312172012_Screenshot_11.jpg" group-title="Movie",MN-PLUS-HD
 http://172.16.172.115:3255/MN-PLUS-HD/index.m3u8
@@ -171,7 +171,7 @@ http://172.16.172.115:3255/Star-Plus/index.m3u8
 http://172.16.172.115:3255/hum_tp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8HTQyZs/HUM-SITARAY.png" group-title="Ent",HUM Sitaray
 http://172.16.172.115:3255/HUMSitaray/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110185054_30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png" group-title="Ent",HUM Masala
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNbTsN9r/HUM-MASALA.png" group-title="Ent",HUM Masala
 http://172.16.172.115:3255/HUMMasala/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ5XZvyJ/zee-tv.png" group-title="Ent",ZeeTVHD
 http://172.16.172.115:3255/ZeeTVHD/index.m3u8
@@ -213,7 +213,7 @@ http://172.16.172.115:3255/TLCHD/index.m3u8
 http://172.16.172.115:3255/LOVE-NATURE-HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312162552_8f6cd51ec38e4f9ccab6a7350ba42d4ca9c429da_800.png" group-title="Info",BC-Earth-HD
 http://172.16.172.115:3255/BC-Earth-HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312162628_unnamed_4.jpg" group-title="Info",TRAVELXP-HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGhV8jwD/Travelxp-HD-Hindi.png" group-title="Info",TRAVELXP-HD
 http://172.16.172.115:3255/TRAVELXP-HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312162710_images_12.png" group-title="Info",XPLOR-HD
 http://172.16.172.115:3255/XPLOR-HD/index.m3u8
