@@ -133,7 +133,7 @@ http://172.16.172.115:3255/AND-PRIVE-HD/index.m3u8
 http://172.16.172.115:3255/MOVIES-NOW-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWrPzmKd/MN.png" group-title="Movie",MN-PLUS-HD
 http://172.16.172.115:3255/MN-PLUS-HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312172052_Flix-HD-1-1200x764.jpg" group-title="Movie",AND-FLIX-HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYj3gmcR/Flix.png" group-title="Movie",AND-FLIX-HD
 http://172.16.172.115:3255/AND-FLIX-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxC900tV/Romady-Now.png" group-title="Movie",ROMEDY-NOW
 http://172.16.172.115:3255/ROMEDY-NOW/index.m3u8
