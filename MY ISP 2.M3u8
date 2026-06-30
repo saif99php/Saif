@@ -131,11 +131,11 @@ http://172.16.172.115:3255/ZEE-BANGLA-CINEMA/index.m3u8
 http://172.16.172.115:3255/AND-PRIVE-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb1XcH4f/Movies-Now.png" group-title="Movie",MOVIES-NOW-HD
 http://172.16.172.115:3255/MOVIES-NOW-HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312172012_Screenshot_11.jpg" group-title="Movie",MN-PLUS-HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWrPzmKd/MN.png" group-title="Movie",MN-PLUS-HD
 http://172.16.172.115:3255/MN-PLUS-HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312172052_Flix-HD-1-1200x764.jpg" group-title="Movie",AND-FLIX-HD
 http://172.16.172.115:3255/AND-FLIX-HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312172143_Logo_Romedy_Now.jpg" group-title="Movie",ROMEDY-NOW
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxC900tV/Romady-Now.png" group-title="Movie",ROMEDY-NOW
 http://172.16.172.115:3255/ROMEDY-NOW/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGXRrh5y/AXN.pngour-success-with-the-striking-this-logo-vector.jpg" group-title="Movie",MNX-HD
 http://172.16.172.115:3255/MNX-HD/index.m3u8
@@ -153,12 +153,8 @@ http://172.16.172.115:3255/Duronto/index.m3u8
 http://172.16.172.115:3255/DiscoveryKids/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjzCF2LT/sony-yay.png" group-title="Kids",SONY-YAY
 http://172.16.172.115:3255/SONY-YAY/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312162018_Screenshot_6.jpg" group-title="Kids",SUPER-HUNGAMA
-http://172.16.172.115:3255/SUPER-HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbh2ppyR/Nick-jr.png" group-title="Kids",NICK-JR
 http://172.16.172.115:3255/NICK-JR/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312171047_Screenshot_9.jpg" group-title="Kids",HUNGAMA
-http://172.16.172.115:3255/HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLmfqL0x/Nick.png" group-title="Kids",NICK
 http://172.16.172.115:3255/NICK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGQ8CKHX/nickelodeon-sonic-in.png" group-title="Kids",SONIC
@@ -179,7 +175,7 @@ http://172.16.172.115:3255/ZeeTVHD/index.m3u8
 http://172.16.172.115:3255/Zing/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63nW5q36/And-tv-hd.png" group-title="Ent",&TVHD
 http://172.16.172.115:3255/&TVHD/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312154539_597236-h.webp" group-title="Ent",STAR-BHARAT-HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhw7YgKX/Star-bharat.png" group-title="Ent",STAR-BHARAT-HD
 http://172.16.172.115:3255/STAR-BHARAT-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGXRrh5y/AXN.png" group-title="Ent",AXN-HD
 http://172.16.172.115:3255/AXN-HD/index.m3u8
@@ -187,19 +183,17 @@ http://172.16.172.115:3255/AXN-HD/index.m3u8
 http://172.16.172.115:3255/ENTER10-BANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJrXXVF0/Colors-bangla-hd.png" group-title="Ent",COLORS-BANGLA-CINEMA
 http://172.16.172.115:3255/COLORS-BANGLA-CINEMA/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312171902_zee-cafe.jpg" group-title="Ent",ZEE-CAFE-HD
-http://172.16.172.115:3255/ZEE-CAFE-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5hn7CkV/SUN-BANGLA.png" group-title="Ent",SUN-BANGLA-HD
 http://172.16.172.115:3255/SUN-BANGLA-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxQmnmW/B4u-music.png" group-title="Music",B4U Music
 http://172.16.172.115:3255/B4UMusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J081y8DN/9xm.png" group-title="Music",9xm
 http://172.16.172.115:3255/9xm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLWtwqYL/Mastiii-Music.png" group-title="Music",HITS-MUSIC-HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsJgds60/Hit-music.png" group-title="Music",HITS-MUSIC-HD
 http://172.16.172.115:3255/HITS-MUSIC-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTkPxFcm/zing-in.png" group-title="Music",ZING-MUSIC
 http://172.16.172.115:3255/ZING-MUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZhqJm6W/shemaroo.png" group-title="Music",ZOOM-MUSIC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0j7Y4VDZ/Zoom.png" group-title="Music",ZOOM-MUSIC
 http://172.16.172.115:3255/ZOOM-MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBC40Tq5/Sangeet-Bangla.png" group-title="Music",songit_bangla
 http://172.16.172.115:3255/songit_bangla/index.m3u8
@@ -209,13 +203,13 @@ http://172.16.172.115:3255/Discovery/index.m3u8
 http://172.16.172.115:3255/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/0973097c-bc5c-4b28-aaca-f04d6f6cb5e2.webp" group-title="Info",TLCHD
 http://172.16.172.115:3255/TLCHD/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312162508_brand_love-nature.png" group-title="Info",LOVE-NATURE-HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7sdx8gr/Love-nature.png" group-title="Info",LOVE-NATURE-HD
 http://172.16.172.115:3255/LOVE-NATURE-HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312162552_8f6cd51ec38e4f9ccab6a7350ba42d4ca9c429da_800.png" group-title="Info",BC-Earth-HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bN2HDN5Q/BBC-Earth.png" group-title="Info",BC-Earth-HD
 http://172.16.172.115:3255/BC-Earth-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGhV8jwD/Travelxp-HD-Hindi.png" group-title="Info",TRAVELXP-HD
 http://172.16.172.115:3255/TRAVELXP-HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312162710_images_12.png" group-title="Info",XPLOR-HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDZ9QDLh/xplorer.png" group-title="Info",XPLOR-HD
 http://172.16.172.115:3255/XPLOR-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TY1z5pNS/Nat-Geo-Wild.png" group-title="Info",NATGEO-WILD-HD
 http://172.16.172.115:3255/NATGEO-WILD-HD/index.m3u8
@@ -225,5 +219,5 @@ http://172.16.172.115:3255/HISTORY-TV-18-HD/index.m3u8
 http://172.16.172.115:3255/SONY-BBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsKyNjgn/Nat-Geo.png" group-title="Info",NATGEO-HD
 http://172.16.172.115:3255/NATGEO-HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312161441_21fd6c17ca827011f43a6cfb987c1759.jpg" group-title="International",Lotus-TV-HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBNZwrYr/Lotus-Tv.png" group-title="International",Lotus-TV-HD
 http://172.16.172.115:3255/Lotus-TV-HD/index.m3u8
